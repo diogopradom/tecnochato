@@ -7,14 +7,14 @@
 body{
 	font-size: 1em;
 	font-family: "Trebuchet MS", "Helvetica", sans-serif;
-	background: #e6e6e6;}
+	background: #ddcece;}
 
 	/*aqui estarao as ids*/
 
 	/*topo do site*/
 
 #cabecalho{
-		background-color: #22A781;
+		background-color: #28128a7a;
 		padding: 15px;
 		text-align: center;
 
@@ -33,7 +33,7 @@ body{
 	padding: 15px;
 }
 #postagens{
-	background-color: #C8FBDD;
+	background-color: #f8f8f8;
 	width: 660px;
 	float: left;
 
@@ -41,7 +41,7 @@ body{
 }
 
 #lateral{
-	background-color: #C8FBDD;
+	background-color: #99ffc3;
 	width: 240px;
 	float: right
 	;
@@ -81,17 +81,17 @@ h1{
 }
 
 h2{
-	color: #22A781;
+	color: #b745ce;
 
 }
 h3{color: #22A781}
 .branco{
-	color: white
+	color: rgb(255, 255, 255)
 }
 
 .datinha{
 	font-size: 0.7em;
-	border-bottom: 2px solid #22A781;
+	border-bottom: 2px solid #914fce;
 	padding-bottom: 10px;
 	margin-bottom: 10px;
 	display: block;
@@ -120,7 +120,7 @@ a{
 }
 
 #cabecalho a:hover {
-	color: #22A781;
+	color: #3bd3a8;
 	background: #FFF
 
 }
